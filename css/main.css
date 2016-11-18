@@ -1,9 +1,11 @@
 body {
+    font-family: 'Georgia', 'Times', 'serif';
     margin: 60px auto;
     width: 70%;
+    background-color: #4ABDAC
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Helvetica'. 'arial', 'sans-serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -19,12 +21,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
+h1, h2 {
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
