@@ -2,18 +2,22 @@ body {
     font-family: 'Georgia', 'Times', 'serif';
     margin: 60px auto;
     width: 70%;
+    background-color: #4ABDAC
 }
-# header {
-background-color:  red;}
 
-# nav bar {
-    background-color: yellow;}
+h1 {
+    display: inline;
+    font-family: 'Georgia', 'Times', 'serif';
+    color: #ffffff;
+    font-size: 6em;
+}
 
 nav ul, footer ul {
     font-family: 'Helvetica'. 'arial', 'sans-serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    background-color: #F7B733;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -26,7 +30,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1, h2 {
+h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
