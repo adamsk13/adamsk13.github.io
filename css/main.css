@@ -2,8 +2,13 @@ body {
     font-family: 'Georgia', 'Times', 'serif';
     margin: 60px auto;
     width: 70%;
-    background-color: #4ABDAC
 }
+# header {
+background-color:  red;}
+
+# nav bar {
+    background-color: yellow;}
+
 nav ul, footer ul {
     font-family: 'Helvetica'. 'arial', 'sans-serif';
     padding: 0px;
