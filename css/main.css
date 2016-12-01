@@ -32,8 +32,8 @@ h1 {
 #promoSide{
 	float: right;
 	border-style: solid;
-	border-width: 10px;
-	border-color: #f7b733}
+	border-width: 5px;
+	border-color: #fc4a1a}
 
 #vetSide,#shelterSide{
 	background-color: #f7b733}
