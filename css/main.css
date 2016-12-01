@@ -28,6 +28,7 @@ h1 {
 	border-color: #ffffff}
 	
 #heroSide,#vetSide,#shelterSide{
+	margin: 0px 0px 0px 3px;
 	background-color: #f7b733}
 	
 #article1,#article2,#article3{
