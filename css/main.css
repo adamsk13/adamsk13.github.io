@@ -36,7 +36,6 @@ h1 {
 	border-color: #f7b733}
 
 #vetSide,#shelterSide{
-	background-color: #f7b733;
 	border-style: solid;
 	border-width: 50px 0px 0px 0px;
 	border-color: #F7B733 #ffffff #ffffff #ffffff;
@@ -53,7 +52,7 @@ h1 {
 	margin: 0px 0px 50px 0px;
 	border-style: solid;
 	border-width: 50px 1px 50px 1px;
-	border-color: #4abdac #ffffff #4abdac #ffffff;
+	border-color: #4abdac #4abdac #4abdac #ffffff;
 	background-color: #4abdac
 	}
 	
