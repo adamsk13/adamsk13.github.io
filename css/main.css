@@ -48,6 +48,8 @@ h1 {
 	background-color: #4abdac
 	}
 	
+#address{
+	font-size: 1.5em;}
 nav ul, footer ul {
     font-family: 'Helvetica'. 'arial', 'sans-serif';
     padding: 0px;
